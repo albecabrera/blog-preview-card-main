@@ -42,7 +42,7 @@ body {
   width: 384px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 20px;
-  box-shadow: 0 1px 15px -5px rgba(0, 0, 0, 0.5);
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.9);
 }
 
 .secondary-card {
