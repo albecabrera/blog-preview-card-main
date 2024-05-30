@@ -1,0 +1,22 @@
+body {
+  background-color: hsl(0, 0%, 100%);
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+}
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.title {
+  background-color: hsl(47, 88%, 63%);
+  display: flex;
+}
+
+.description {
+  font-size: 16px;
+}
